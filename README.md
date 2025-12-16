@@ -2,9 +2,8 @@
 
 Étudiante en **Master 2 Ingénierie de l’IA** | Passionnée par le **Machine Learning**, **Deep Learning** et l'**analyse de données**  
 
-🔭 **Stage actuel :** Développement IA et Data  
 🌱 **Je suis en apprentissage continu** : IA distribuée, Big Data, NLP, modélisation opérationnelle  
-💬 **Langues :** Français, Anglais (avancé), Arabe (bilingue), Kabyle (maternel)  
+💬 **Langues :** Français, Anglais, Arabe
 
 ---
 
@@ -86,7 +85,7 @@ Développement d’un modèle de réseau de neurones pour **l’analyse des sent
 
 ## ⚡ Centres d’intérêt
 
-- Athlète internationale de haut niveau en **tennis de table**, licenciée au club de Pontoise 🏓  
+- Athlète internationale de haut niveau en **tennis de table** 🏓  
 - Lecture, dessin, art 🎨  
 
 ---
