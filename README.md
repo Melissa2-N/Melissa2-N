@@ -48,10 +48,20 @@
 ---
 ## 🔍 Projets Académiques & Techniques
 
-**Prospection d’entreprises innovantes & Aide à la décision**
+**Prospection d’entreprises innovantes & Aide à la décision** 
+
+
 **Classification d’emails clients (NLP & Deep Learning)**
+
+
 **Analyse des sentiments sur Twitter**
+
+
 **Dashboard sur la qualité de l’air**
+
+
 **Plateforme web de gestion des utilisateurs**
+
+
 **Optimisation : Problème du Voyageur de Commerce (TSP)**
 
