@@ -1,92 +1,57 @@
-# 👋 Bonjour, je suis Melissa
+# Hello, I’m Melissa
 
-Étudiante en **Master 2 Ingénierie de l’IA** | Passionnée par le **Machine Learning**, **Deep Learning** et l'**analyse de données**  
+🌱 I’m a Master’s student in AI Engineering, passionate about Machine Learning, Deep Learning, and Data Analysis. I enjoy building intelligent systems, exploring data-driven insights, and continuously learning about NLP, Big Data, and scalable AI solutions. Curious and motivated, I like turning complex problems into practical, real-world applications through code.
 
-🌱 **Je suis en apprentissage continu** : IA distribuée, Big Data, NLP, modélisation opérationnelle  
-💬 **Langues :** Français, Anglais, Arabe
-
----
+💬 Languages: French, English, Arabic
 
 ## 🏅 Badges & Technologies
 
+### 💻 Languages
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white)
-![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![NoSQL](https://img.shields.io/badge/NoSQL-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+
+### 📊 Data Analysis & Visualization
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-444876?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![PowerBI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=white)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
+
+### 🤖 AI / Computer Vision
+![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![YOLO](https://img.shields.io/badge/YOLO-00FFFF?style=for-the-badge&logo=target&logoColor=black)
+
+### 🛠 Tools & Frameworks
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Anaconda](https://img.shields.io/badge/Anaconda-44A833?style=for-the-badge&logo=anaconda&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
+![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
 ## 🎓 Formation
 
 **Master Ingénierie de l’IA**, Université Paris 8 (2024-2026)  
-Cours clés : Algorithmique, bases de données, modélisation opérationnelle, IA distribuée  
-
 **Master Big Data Analytics**, USTHB (2022-2024)  
-Cours clés : Bases de données avancées, probabilités et statistiques, graphes et Big Data, entrepôts de données  
-
 **Licence Recherche opérationnelle**, USTHB (2019-2022)  
-Cours clés : Analyse et extraction de données, architectures de traitement complexes, optimisation et réseaux  
 
 ---
+## 🔍 Projets Académiques & Techniques
 
-## 💼 Expérience professionnelle
-
-### Icosnet Alger | Stagiaire Data Scientist (6 mois, 2024)
-- Classification d’emails clients via **Deep Learning (GRU-LSTM + attention)**  
-- NLP : extraction d’entités nommées, vectorisation de texte, fine-tuning de modèles pré-entraînés  
-- Intégration du modèle dans le système de gestion des tickets  
-
-### INPI, France | Stagiaire Data Analyste (4 mois, 2025)
-- Prospection d’entreprises innovantes et développement d’**outils d’aide à la décision**  
-- Collecte et traitement de données économiques et technologiques  
-- Analyse comparative et identification d’acteurs à fort potentiel  
-
-### MicroClub – USTHB | Chef de projet événementiel et informatique (2020-2022)
-- Organisation et coordination d’événements techniques et scientifiques  
-- Gestion de projets open source et développement de solutions innovantes (Python, Java, R, MATLAB)  
-- Création de tableaux de bord interactifs sous **Power BI**  
-
----
-
-## 🛠️ Compétences
-
-### Hard Skills
-**Python** ▰▰▰▰▰ 90%  
-**Machine Learning / Deep Learning** ▰▰▰▰▱ 85%  
-**Power BI / Tableau** ▰▰▰▰▰ 80%  
-**R / SQL / NoSQL** ▰▰▰▰▱ 75%  
-**Flask / HTML / CSS / JS** ▰▰▰▰▱ 70%  
-
-### Soft Skills
-- Esprit d’équipe & adaptabilité  
-- Communication et écoute active  
-- Capacité d’analyse & souci du détail  
-
----
-
-## 🚀 Projets clés
-
-### Dashboard qualité de l’air (Power BI)
-Conception d’un **tableau de bord interactif** avec visualisations avancées et filtres dynamiques pour l’analyse des tendances et détection d’anomalies.
-
-### Plateforme web de gestion des utilisateurs (Flask)
-Développement d’une **application web complète** pour l’enregistrement, la gestion et le suivi des utilisateurs, avec interface responsive et base de données optimisée.
-
-### Optimisation du Voyageur de Commerce
-Application de l’**algorithme de recuit simulé** pour résoudre un cas réel, comparé à d’autres heuristiques (Python, algorithmes bio-inspirés).
-
-### Analyse des sentiments sur Twitter
-Développement d’un modèle de réseau de neurones pour **l’analyse des sentiments en temps réel**.
-
----
-
-## ⚡ Centres d’intérêt
-
-- Athlète internationale de haut niveau en **tennis de table** 🏓  
-- Lecture, dessin, art 🎨  
-
----
+Prospection d’entreprises innovantes & Aide à la décision
+Classification d’emails clients (NLP & Deep Learning)
+Analyse des sentiments sur Twitter
+Dashboard sur la qualité de l’air
+Plateforme web de gestion des utilisateurs
+Optimisation : Problème du Voyageur de Commerce (TSP)
 
